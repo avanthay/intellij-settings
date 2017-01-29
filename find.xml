@@ -1,0 +1,25 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '/home/dave/svnrepositories/CinemathequeSuisse.Dokuprogramm/pear/pear/php/PEAR/RunTest.php'" />
+    <option name="defaultScopeName" value="File '/home/dave/svnrepositories/CinemathequeSuisse.Dokuprogramm/pear/pear/php/PEAR/RunTest.php'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/home/dave/svnrepositories/CinemathequeSuisse.Dokuprogramm/pear/pear/php/PEAR/RunTest.php'" />
+    <option name="FILE_MASK" value="!*.min.*, !*.css, !*.map" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.log</mask>
+      <mask>*.mo</mask>
+      <mask>!*.min.*, !*.css, !*.map</mask>
+    </recentFileMasks>
+  </component>
+</application>
