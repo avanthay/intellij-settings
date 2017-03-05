@@ -65,6 +65,9 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="PasteMultiple" />
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="PublishGroup.CompareLocalVsRemote">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
