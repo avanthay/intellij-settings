@@ -2791,6 +2791,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="SASS_IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="dc322f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="dc322f" />
