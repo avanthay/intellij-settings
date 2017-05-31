@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="ActivateStructureToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
@@ -9,6 +12,7 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
@@ -30,6 +34,7 @@
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
+  <action id="FileChooser.GotoProject" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
