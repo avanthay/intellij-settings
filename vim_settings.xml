@@ -1,16 +1,17 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1498816401579">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/MyCourseExercises.jsx" timestamp="1498827910100">
-        <mark key="'" line="233" column="10" />
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
+      <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/MyCourseExercises.jsx" timestamp="1498831559183">
+        <mark key="'" line="234" column="10" />
+        <mark key="[" line="263" column="10" />
+        <mark key="]" line="263" column="9" />
+        <mark key="." line="263" column="9" />
+        <mark key="^" line="263" column="9" />
       </file>
       <file name="$USER_HOME$/code/codeboard/package.json" timestamp="1498826332576">
         <mark key="'" line="41" column="11" />
@@ -27,11 +28,18 @@
         <mark key="^" line="135" column="2" />
         <mark key="." line="111" column="97" />
       </file>
-      <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" timestamp="1498827106758">
-        <mark key="'" line="29" column="21" />
+      <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" timestamp="1498831629191">
+        <mark key="'" line="104" column="17" />
         <mark key="[" line="29" column="4" />
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/codeboard/imports/ui/pages/myCourses/exercises/ImportExercises.jsx" timestamp="1498831479587">
+        <mark key="'" line="2" column="34" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/MyCourse.jsx" timestamp="1498827436232" />
     </filemarks>
@@ -58,40 +66,65 @@
       <jump line="228" column="18" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/MyCourseExercises.jsx" />
       <jump line="289" column="0" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/MyCourseExercises.jsx" />
       <jump line="233" column="10" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/MyCourseExercises.jsx" />
+      <jump line="7" column="45" filename="$USER_HOME$/code/codeboard/imports/ui/pages/myCourses/exercises/ImportExercises.jsx" />
+      <jump line="16" column="24" filename="$USER_HOME$/code/codeboard/imports/ui/pages/myCourses/exercises/ImportExercises.jsx" />
+      <jump line="2" column="34" filename="$USER_HOME$/code/codeboard/imports/ui/pages/myCourses/exercises/ImportExercises.jsx" />
+      <jump line="566" column="10" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
+      <jump line="585" column="2" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
+      <jump line="107" column="17" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
+      <jump line="447" column="8" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
+      <jump line="261" column="40" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
+      <jump line="194" column="38" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
+      <jump line="104" column="17" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7fQo=</text>
+      <register name="&quot;" type="4">
+        <text>object</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7fQo=</text>
+      <register name="-" type="4">
+        <text>object</text>
+      </register>
+      <register name="/" type="4">
+        <text>onConfirm</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">TXlDb3Vyc2VFeGVyY2lzZXMucHJvcFR5cGVzID0gewogIGNvdXJzZTogUHJvcFR5cGVzLm9iamVjdCwKfTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQ2xpY2s9eygpID0+IGNvbnNvbGUubG9nKCdUTyBCRSBJTVBMRU1FTlRFRC4uLicpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBleGVyY2lzZS5wdWJsaWMgPT09ICd5ZXMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PEJ1dHRvbgogIHN0eWxlPXt7IG1hcmdpbkxlZnQ6ICc4cHgnIH19CiAgYnNTdHlsZT0iZGVmYXVsdCIKICBic1NpemU9InNtYWxsIgo+PEdseXBoaWNvbiBnbHlwaD0ic2hhcmUtYWx0IiAvPnsnIEltcG9ydCBFeGVyY2lzZXMnfTwvQnV0dG9uPjsK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">PEJ1dHRvbgogIHN0eWxlPXt7IG1hcmdpbkxlZnQ6ICc4cHgnIH19CiAgYnNTdHlsZT0iZGVmYXVsdCIKICBic1NpemU9InNtYWxsIgo+PEdseXBoaWNvbiBnbHlwaD0ic2hhcmUtYWx0IiAvPnsnIEltcG9ydCBFeGVyY2lzZXMnfTwv</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB7LyogVE9ETyAjNjUgYWRkIGJ1dHRvbiBhdHRyaWJ1dGVzICovfQogICAgICAgIDxCdXR0b24KICAgICAgICAgIHN0eWxlPXt7IG1hcmdpbkxlZnQ6ICc4cHgnIH19CiAgICAgICAgICBic1N0eWxlPSJkZWZhdWx0IgogICAgICAgICAgYnNTaXplPSJzbWFsbCIKICAgICAgICA+PEdseXBoaWNvbiBnbHlwaD0ic2hhcmUtYWx0IiAvPnsnIEltcG9ydCBFeGVyY2lzZXMnfTwvQnV0dG9uPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB7fQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIG9uQ2xpY2s9eygpID0+IGNvbnNvbGUubG9nKCdUTyBCRSBJTVBMRU1FTlRFRC4uLicpfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">aGVyZSA=</text>
-      </register>
-      <register name="/" type="4">
-        <text>render(</text>
-      </register>
     </registers>
     <search>
-      <last-search>render(</last-search>
+      <last-search>onConfirm</last-search>
       <last-offset />
-      <last-pattern>render(</last-pattern>
+      <last-pattern>onConfirm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -101,6 +134,10 @@
         <entry>editExercise</entry>
         <entry>router</entry>
         <entry>render(</entry>
+        <entry encoding="base64">XDxCdXR0b25cPg==</entry>
+        <entry>propT</entry>
+        <entry>callback</entry>
+        <entry>onConfirm</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
@@ -132,6 +169,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
