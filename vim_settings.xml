@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1498812862069">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/codeboard/imports/api/methods.js" timestamp="1498811933988">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="23" />
@@ -12,8 +15,14 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>// test</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBleGVyY2lzZS5wdWJsaWMgPT09ICd5ZXMnCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBleGVyY2lzZS5wdWJsaWMgPT09ICd5ZXMnCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
