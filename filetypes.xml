@@ -20,6 +20,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="legal-displayed" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="APIDocumentation" type="Twig" />
     </extensionMap>
   </component>
