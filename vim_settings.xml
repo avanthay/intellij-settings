@@ -16,8 +16,11 @@
       <file name="$USER_HOME$/code/codeboard/package.json" timestamp="1498826332576">
         <mark key="'" line="41" column="11" />
       </file>
-      <file name="/fragment.js" timestamp="1502268174574">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.js" timestamp="1502283364359">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EnrolledGroup.jsx" timestamp="1498816321437">
         <mark key="'" line="134" column="2" />
@@ -41,7 +44,7 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1502268457253">
+      <file name="/JavaScript Console" timestamp="1502282745575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/codeboard/imports/ui/pages/myCourses/exercises/ImportExercises.jsx" timestamp="1498831479587">
@@ -51,11 +54,12 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.tests.js" timestamp="1502270762791">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-        <mark key="^" line="13" column="19" />
+      <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.tests.js" timestamp="1502283497697">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="31" column="5" />
+        <mark key="^" line="31" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -91,13 +95,14 @@
       <jump line="261" column="40" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
       <jump line="194" column="38" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
       <jump line="104" column="17" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
+      <jump line="31" column="6" filename="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.tests.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>...,</text>
+        <text>Exercises.insert(F</text>
       </register>
       <register name="-" type="4">
-        <text>...,</text>
+        <text>Exercises.insert(F</text>
       </register>
       <register name="/" type="4">
         <text>onConfirm</text>
@@ -106,34 +111,34 @@
         <text encoding="base64">TXlDb3Vyc2VFeGVyY2lzZXMucHJvcFR5cGVzID0gewogIGNvdXJzZTogUHJvcFR5cGVzLm9iamVjdCwKfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIGZpbGUgSlNVbnJlc29sdmVkRnVuY3Rpb24K</text>
+        <text encoding="base64">ICAgIEV4ZXJjaXNlcy5pbnNlcnQoRmFjdG9yeS5idWlsZCgnZXhlcmNpc2UnKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8qIGdsb2JhbHMgZGVzY3JpYmUgaXQgKi8=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGNoYWkuYXNzZXJ0LmVxdWFsKGV4ZXJjaXNlLm5hbWUsICdmb28nKTsK</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIGZpbGUgSlNVbnJlc29sdmVkRnVuY3Rpb24K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ci8qIGdsb2JhbHMgZGVzY3JpYmUgaXQgKi8=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNoYWkuYXNzZXJ0LmVxdWFsKGV4ZXJjaXNlLm5hbWUsICdmb28nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>help</text>
       </register>
     </registers>
     <search>
@@ -155,7 +160,6 @@
         <entry>onConfirm</entry>
       </history-search>
       <history-cmd>
-        <entry>help</entry>
         <entry>wq</entry>
         <entry>help ctrl-h</entry>
         <entry>help find</entry>
@@ -170,6 +174,7 @@
         <entry>action reformat</entry>
         <entry>help action</entry>
         <entry>w</entry>
+        <entry>help</entry>
       </history-cmd>
       <history-expr />
       <history-input />
