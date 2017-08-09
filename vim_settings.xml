@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1502270526086">
@@ -28,7 +28,7 @@
         <mark key="^" line="135" column="2" />
         <mark key="." line="111" column="97" />
       </file>
-      <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.js" timestamp="1502270554475" />
+      <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.js" timestamp="1502286666575" />
       <file name="meteor://💻app/packages/practicalmeteor:mocha-core/server.js" timestamp="1502265658395">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,7 +44,7 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1502282745575">
+      <file name="/JavaScript Console" timestamp="1502286624436">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/codeboard/imports/ui/pages/myCourses/exercises/ImportExercises.jsx" timestamp="1498831479587">
@@ -54,11 +54,11 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.tests.js" timestamp="1502283497697">
+      <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.tests.js" timestamp="1502286943747">
         <mark key="'" line="31" column="6" />
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="31" column="5" />
-        <mark key="." line="31" column="5" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="5" />
       </file>
     </filemarks>
@@ -99,10 +99,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Exercises.insert(F</text>
+        <text encoding="base64">ICAgIGNoYWkuYXNzZXJ0Lg==</text>
       </register>
       <register name="-" type="4">
-        <text>Exercises.insert(F</text>
+        <text encoding="base64">ICAgIGNoYWkuYXNzZXJ0Lg==</text>
       </register>
       <register name="/" type="4">
         <text>onConfirm</text>
@@ -111,31 +111,31 @@
         <text encoding="base64">TXlDb3Vyc2VFeGVyY2lzZXMucHJvcFR5cGVzID0gewogIGNvdXJzZTogUHJvcFR5cGVzLm9iamVjdCwKfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEV4ZXJjaXNlcy5pbnNlcnQoRmFjdG9yeS5idWlsZCgnZXhlcmNpc2UnKSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBpdCgnZG9lcyBub3QgYWxsb3cgaW5zZXJ0LCB1cGRhdGUgYW5kIHJlbW92ZScsIGZ1bmN0aW9uKCkgewogICAgdHJ5IHsKICAgICAgY29uc3QgZXggPSBGYWN0b3J5LmJ1aWxkKCdleGVyY2lzZScpOwogICAgICBFeGVyY2lzZXMuaW5zZXJ0KEZhY3RvcnkuYnVpbGQoJ2V4ZXJjaXNlJykpOwogICAgfSBjYXRjaCAoZSkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICByZXR1cm4gdHJ1ZTsKICB9KTs=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgIEV4ZXJjaXNlcy5pbnNlcnQoRmFjdG9yeS5idWlsZCgnZXhlcmNpc2UnKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIGZpbGUgSlNVbnJlc29sdmVkRnVuY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ci8qIGdsb2JhbHMgZGVzY3JpYmUgaXQgKi8=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNoYWkuYXNzZXJ0LmVxdWFsKGV4ZXJjaXNlLm5hbWUsICdmb28nKTsK</text>
+        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIGZpbGUgSlNVbnJlc29sdmVkRnVuY3Rpb24K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ci8qIGdsb2JhbHMgZGVzY3JpYmUgaXQgKi8=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC8vIGNoYWkuYXNzZXJ0LmVxdWFsKGV4ZXJjaXNlLm5hbWUsICdmb28nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
