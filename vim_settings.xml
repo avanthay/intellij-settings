@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1498816401579">
@@ -34,6 +34,9 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
+      <file name="/JavaScript Console" timestamp="1502265595878">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/codeboard/imports/ui/pages/myCourses/exercises/ImportExercises.jsx" timestamp="1498831479587">
         <mark key="'" line="2" column="34" />
         <mark key="[" line="10" column="12" />
@@ -41,7 +44,15 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/MyCourse.jsx" timestamp="1498827436232" />
+      <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.tests.js" timestamp="1502266102012">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+      </file>
+      <file name="meteor://💻app/packages/practicalmeteor:mocha-core/server.js" timestamp="1502265658395">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="119" column="47" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EnrolledGroup.jsx" />
@@ -78,11 +89,11 @@
       <jump line="104" column="17" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>ercise</text>
       </register>
       <register name="/" type="4">
         <text>onConfirm</text>
@@ -91,7 +102,7 @@
         <text encoding="base64">TXlDb3Vyc2VFeGVyY2lzZXMucHJvcFR5cGVzID0gewogIGNvdXJzZTogUHJvcFR5cGVzLm9iamVjdCwKfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -103,22 +114,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">PEJ1dHRvbgogIHN0eWxlPXt7IG1hcmdpbkxlZnQ6ICc4cHgnIH19CiAgYnNTdHlsZT0iZGVmYXVsdCIKICBic1NpemU9InNtYWxsIgo+PEdseXBoaWNvbiBnbHlwaD0ic2hhcmUtYWx0IiAvPnsnIEltcG9ydCBFeGVyY2lzZXMnfTwvQnV0dG9uPjsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PEJ1dHRvbgogIHN0eWxlPXt7IG1hcmdpbkxlZnQ6ICc4cHgnIH19CiAgYnNTdHlsZT0iZGVmYXVsdCIKICBic1NpemU9InNtYWxsIgo+PEdseXBoaWNvbiBnbHlwaD0ic2hhcmUtYWx0IiAvPnsnIEltcG9ydCBFeGVyY2lzZXMnfTwv</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB7LyogVE9ETyAjNjUgYWRkIGJ1dHRvbiBhdHRyaWJ1dGVzICovfQogICAgICAgIDxCdXR0b24KICAgICAgICAgIHN0eWxlPXt7IG1hcmdpbkxlZnQ6ICc4cHgnIH19CiAgICAgICAgICBic1N0eWxlPSJkZWZhdWx0IgogICAgICAgICAgYnNTaXplPSJzbWFsbCIKICAgICAgICA+PEdseXBoaWNvbiBnbHlwaD0ic2hhcmUtYWx0IiAvPnsnIEltcG9ydCBFeGVyY2lzZXMnfTwvQnV0dG9uPgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB7fQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQ2xpY2s9eygpID0+IGNvbnNvbGUubG9nKCdUTyBCRSBJTVBMRU1FTlRFRC4uLicpfQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>help comment</text>
       </register>
     </registers>
     <search>
@@ -145,11 +156,12 @@
         <entry>help ctrl-h</entry>
         <entry>help find</entry>
         <entry>isearch foo</entry>
-        <entry>w</entry>
         <entry>open package.json</entry>
         <entry>o package.json</entry>
         <entry>split</entry>
         <entry>q</entry>
+        <entry>w</entry>
+        <entry>help comment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
