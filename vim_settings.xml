@@ -22,21 +22,17 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EnrolledGroup.jsx" timestamp="1498816321437">
-        <mark key="'" line="134" column="2" />
-        <mark key="]" line="135" column="2" />
-        <mark key="^" line="135" column="2" />
-        <mark key="." line="111" column="97" />
-      </file>
-      <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.js" timestamp="1502286666575" />
-      <file name="meteor://💻app/packages/practicalmeteor:mocha-core/server.js" timestamp="1502265658395">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/codeboard/imports/api/methods.js" timestamp="1498811933988">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="23" />
         <mark key="^" line="20" column="29" />
         <mark key="." line="20" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EnrolledGroup.jsx" timestamp="1498816321437">
+        <mark key="'" line="134" column="2" />
+        <mark key="]" line="135" column="2" />
+        <mark key="^" line="135" column="2" />
+        <mark key="." line="111" column="97" />
       </file>
       <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" timestamp="1498831629191">
         <mark key="'" line="104" column="17" />
@@ -53,6 +49,9 @@
         <mark key="]" line="13" column="23" />
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
+      </file>
+      <file name="meteor://💻app/packages/practicalmeteor:mocha-core/server.js" timestamp="1502265658395">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.tests.js" timestamp="1502286943747">
         <mark key="'" line="31" column="6" />
@@ -105,7 +104,7 @@
         <text encoding="base64">ICAgIGNoYWkuYXNzZXJ0Lg==</text>
       </register>
       <register name="/" type="4">
-        <text>onConfirm</text>
+        <text>url</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TXlDb3Vyc2VFeGVyY2lzZXMucHJvcFR5cGVzID0gewogIGNvdXJzZTogUHJvcFR5cGVzLm9iamVjdCwKfTsK</text>
@@ -142,9 +141,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onConfirm</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern>onConfirm</last-pattern>
+      <last-pattern>url</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -158,6 +157,7 @@
         <entry>propT</entry>
         <entry>callback</entry>
         <entry>onConfirm</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
