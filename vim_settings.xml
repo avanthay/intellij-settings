@@ -149,7 +149,7 @@
         <text encoding="base64">ICAgIC8vIGNoYWkuYXNzZXJ0LmVxdWFsKGV4ZXJjaXNlLm5hbWUsICdmb28nKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>help navigate</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -172,7 +172,6 @@
         <entry>url</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>help ctrl-h</entry>
         <entry>help find</entry>
         <entry>isearch foo</entry>
@@ -188,6 +187,7 @@
         <entry>w</entry>
         <entry>help</entry>
         <entry>help navigate</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
