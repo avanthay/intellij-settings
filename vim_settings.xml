@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1502270526086">
@@ -22,17 +22,29 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/codeboard/imports/api/methods.js" timestamp="1498811933988">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="23" />
-        <mark key="^" line="20" column="29" />
-        <mark key="." line="20" column="23" />
-      </file>
       <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EnrolledGroup.jsx" timestamp="1498816321437">
         <mark key="'" line="134" column="2" />
         <mark key="]" line="135" column="2" />
         <mark key="^" line="135" column="2" />
         <mark key="." line="111" column="97" />
+      </file>
+      <file name="$USER_HOME$/code/code_expert/template.env" timestamp="1502872103103">
+        <mark key="[" line="44" column="29" />
+        <mark key="]" line="44" column="29" />
+        <mark key="^" line="44" column="29" />
+        <mark key="." line="44" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/code_expert/README.md" timestamp="1502872354070">
+        <mark key="'" line="2" column="0" />
+      </file>
+      <file name="meteor://💻app/packages/practicalmeteor:mocha-core/server.js" timestamp="1502265658395">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/codeboard/imports/api/methods.js" timestamp="1498811933988">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="23" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="23" />
       </file>
       <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" timestamp="1498831629191">
         <mark key="'" line="104" column="17" />
@@ -49,9 +61,6 @@
         <mark key="]" line="13" column="23" />
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
-      </file>
-      <file name="meteor://💻app/packages/practicalmeteor:mocha-core/server.js" timestamp="1502265658395">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.tests.js" timestamp="1502286943747">
         <mark key="'" line="31" column="6" />
@@ -95,13 +104,16 @@
       <jump line="194" column="38" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
       <jump line="104" column="17" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EditExerciseDialog.jsx" />
       <jump line="31" column="6" filename="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.tests.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/code_expert/README.md" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/code_expert/README.md" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/code_expert/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGNoYWkuYXNzZXJ0Lg==</text>
+        <text encoding="base64">dG8g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGNoYWkuYXNzZXJ0Lg==</text>
+        <text encoding="base64">dG8g</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
@@ -137,7 +149,7 @@
         <text encoding="base64">ICAgIC8vIGNoYWkuYXNzZXJ0LmVxdWFsKGV4ZXJjaXNlLm5hbWUsICdmb28nKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>help</text>
+        <text>help navigate</text>
       </register>
     </registers>
     <search>
@@ -175,6 +187,7 @@
         <entry>help action</entry>
         <entry>w</entry>
         <entry>help</entry>
+        <entry>help navigate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
