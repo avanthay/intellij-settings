@@ -168,7 +168,7 @@
         <text encoding="base64">ICAgIC8vIGNoYWkuYXNzZXJ0LmVxdWFsKGV4ZXJjaXNlLm5hbWUsICdmb28nKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -199,7 +199,6 @@
         <entry>open package.json</entry>
         <entry>o package.json</entry>
         <entry>split</entry>
-        <entry>q</entry>
         <entry>help comment</entry>
         <entry>e</entry>
         <entry>action</entry>
@@ -209,6 +208,7 @@
         <entry>help</entry>
         <entry>help navigate</entry>
         <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
