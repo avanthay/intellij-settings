@@ -41,6 +41,16 @@
       <file name="meteor://💻app/packages/practicalmeteor:mocha-core/server.js" timestamp="1502265658395">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/code_expert/imports/ui/legacy/components/AdminConsole.jsx" timestamp="1502894295801">
+        <mark key="'" line="119" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/code_expert/imports/ui/legacy/components/SelectUserDialog.jsx" timestamp="1502894548195">
+        <mark key="[" line="129" column="26" />
+        <mark key="]" line="129" column="26" />
+        <mark key="^" line="129" column="26" />
+        <mark key="." line="129" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/code_expert/imports/ui/legacy/components/EditCourseDialog.jsx" timestamp="1502894365271" />
       <file name="$USER_HOME$/code/codeboard/imports/api/methods.js" timestamp="1498811933988">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="23" />
@@ -109,6 +119,13 @@
       <jump line="53" column="0" filename="$USER_HOME$/code/code_expert/README.md" />
       <jump line="54" column="0" filename="$USER_HOME$/code/code_expert/README.md" />
       <jump line="2" column="0" filename="$USER_HOME$/code/code_expert/README.md" />
+      <jump line="25" column="21" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/AdminConsole.jsx" />
+      <jump line="58" column="17" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/AdminConsole.jsx" />
+      <jump line="60" column="56" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/AdminConsole.jsx" />
+      <jump line="94" column="19" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/AdminConsole.jsx" />
+      <jump line="95" column="60" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/AdminConsole.jsx" />
+      <jump line="112" column="18" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/AdminConsole.jsx" />
+      <jump line="119" column="52" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/AdminConsole.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -118,7 +135,7 @@
         <text encoding="base64">dG8g</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>course</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TXlDb3Vyc2VFeGVyY2lzZXMucHJvcFR5cGVzID0gewogIGNvdXJzZTogUHJvcFR5cGVzLm9iamVjdCwKfTsK</text>
@@ -155,9 +172,9 @@
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>course</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>course</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -172,6 +189,8 @@
         <entry>callback</entry>
         <entry>onConfirm</entry>
         <entry>url</entry>
+        <entry>courseadm</entry>
+        <entry>course</entry>
       </history-search>
       <history-cmd>
         <entry>help ctrl-h</entry>
