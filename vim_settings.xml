@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1502876679374">
+      <file name="/Dummy.txt" timestamp="1502959289252">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/MyCourseExercises.jsx" timestamp="1498831559183">
@@ -64,6 +64,12 @@
       <file name="/JavaScript Console" timestamp="1502286624436">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/code_expert/imports/ui/legacy/helper/RedirectOverview.jsx" timestamp="1502959630006">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="33" />
+      </file>
       <file name="$USER_HOME$/code/codeboard/imports/ui/pages/myCourses/exercises/ImportExercises.jsx" timestamp="1498831479587">
         <mark key="'" line="2" column="34" />
         <mark key="[" line="10" column="12" />
@@ -71,8 +77,7 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/code/code_expert/imports/ui/pages/myCourses/exercises/importExercises/Dialog.jsx" timestamp="1502957957589" />
-      <file name="$USER_HOME$/code/code_expert/imports/ui/legacy/containers/AppContainer.jsx" timestamp="1502958067818" />
+      <file name="$USER_HOME$/code/code_expert/imports/ui/legacy/containers/AppContainer.jsx" timestamp="1502960100703" />
       <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.tests.js" timestamp="1502286943747">
         <mark key="'" line="31" column="6" />
         <mark key="[" line="32" column="0" />
@@ -80,7 +85,6 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="5" />
       </file>
-      <file name="$USER_HOME$/code/code_expert/imports/ui/pages/myCourses/exercises/importExercises/ImportExercises.jsx" timestamp="1502957542942" />
     </filemarks>
     <jumps>
       <jump line="119" column="47" filename="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EnrolledGroup.jsx" />
@@ -129,10 +133,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dG8g</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG8g</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>course</text>
@@ -141,31 +145,38 @@
         <text encoding="base64">TXlDb3Vyc2VFeGVyY2lzZXMucHJvcFR5cGVzID0gewogIGNvdXJzZTogUHJvcFR5cGVzLm9iamVjdCwKfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBpdCgnZG9lcyBub3QgYWxsb3cgaW5zZXJ0LCB1cGRhdGUgYW5kIHJlbW92ZScsIGZ1bmN0aW9uKCkgewogICAgdHJ5IHsKICAgICAgY29uc3QgZXggPSBGYWN0b3J5LmJ1aWxkKCdleGVyY2lzZScpOwogICAgICBFeGVyY2lzZXMuaW5zZXJ0KEZhY3RvcnkuYnVpbGQoJ2V4ZXJjaXNlJykpOwogICAgfSBjYXRjaCAoZSkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICByZXR1cm4gdHJ1ZTsKICB9KTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gLyogZXNsaW50LWVuYWJsZSByZWFjdC9yZXF1aXJlLWRlZmF1bHQtcHJvcHMsIHJlYWN0L2ZvcmJpZC1wcm9wLXR5cGVzICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vIC8vIFRPRE8gIzQ1IGFkZCBkZWZhdWx0IHByb3BzCi8vIC8vIFRPRE8gIzQ2IG1vcmUgc3BlY2lmaWMgcHJvcFR5cGVzCi8vIC8qIGVzbGludC1kaXNhYmxlIHJlYWN0L3JlcXVpcmUtZGVmYXVsdC1wcm9wcywgcmVhY3QvZm9yYmlkLXByb3AtdHlwZXMgKi8KLy8gUmVkaXJlY3RPdmVydmlldy5wcm9wVHlwZXMgPSB7Ci8vICAgbG9jYXRpb246IFByb3BUeXBlcy5vYmplY3QsCi8vICAgY2hpbGRyZW46IFByb3BUeXBlcy5lbGVtZW50LCAvLyBtYXRjaGVkIGNoaWxkIHJvdXRlIGNvbXBvbmVudAovLyB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEV4ZXJjaXNlcy5pbnNlcnQoRmFjdG9yeS5idWlsZCgnZXhlcmNpc2UnKSk7Cg==</text>
+        <text encoding="base64">LyAvKiBlc2xpbnQtZW5hYmxlIHJlYWN0L3JlcXVpcmUtZGVmYXVsdC1wcm9wcywgcmVhY3QvZm9yYmlkLXByb3AtdHlwZXMgKi8K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>// // TODO #45 add default props
+// // TODO #46 more specific propTypes
+// /* eslint-disable react/require-default-props, react/forbid-prop-types */
+// RedirectOverview.propTypes = {
+//   location: PropTypes.object,
+//   children: PropTypes.element, // matched child route component
+// };
+/</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIGZpbGUgSlNVbnJlc29sdmVkRnVuY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Ci8qIGdsb2JhbHMgZGVzY3JpYmUgaXQgKi8=</text>
+        <text encoding="base64">Ci8vIC8vIFRPRE8gIzQ1IGFkZCBkZWZhdWx0IHByb3BzCi8vIC8vIFRPRE8gIzQ2IG1vcmUgc3BlY2lmaWMgcHJvcFR5cGVzCi8vIC8qIGVzbGludC1kaXNhYmxlIHJlYWN0L3JlcXVpcmUtZGVmYXVsdC1wcm9wcywgcmVhY3QvZm9yYmlkLXByb3AtdHlwZXMgKi8KLy8gUmVkaXJlY3RPdmVydmlldy5wcm9wVHlwZXMgPSB7Ci8vICAgbG9jYXRpb246IFByb3BUeXBlcy5vYmplY3QsCi8vICAgY2hpbGRyZW46IFByb3BUeXBlcy5lbGVtZW50LCAvLyBtYXRjaGVkIGNoaWxkIHJvdXRlIGNvbXBvbmVudAovLyB9OwovLyAvKiBlc2xpbnQtZW5hYmxlIHJlYWN0L3JlcXVpcmUtZGVmYXVsdC1wcm9wcywgcmVhY3QvZm9yYmlkLXByb3AtdHlwZXMgKi8=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNoYWkuYXNzZXJ0LmVxdWFsKGV4ZXJjaXNlLm5hbWUsICdmb28nKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -204,10 +215,10 @@
         <entry>action</entry>
         <entry>action reformat</entry>
         <entry>help action</entry>
-        <entry>w</entry>
         <entry>help</entry>
         <entry>help navigate</entry>
         <entry>wq</entry>
+        <entry>w</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
