@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1502959289252">
@@ -22,12 +22,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/codeboard/imports/ui/legacy/components/EnrolledGroup.jsx" timestamp="1498816321437">
-        <mark key="'" line="134" column="2" />
-        <mark key="]" line="135" column="2" />
-        <mark key="^" line="135" column="2" />
-        <mark key="." line="111" column="97" />
-      </file>
       <file name="$USER_HOME$/code/code_expert/template.env" timestamp="1502872103103">
         <mark key="[" line="44" column="29" />
         <mark key="]" line="44" column="29" />
@@ -48,6 +42,12 @@
         <mark key="]" line="129" column="26" />
         <mark key="^" line="129" column="26" />
         <mark key="." line="129" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/code_expert/imports/ui/legacy/components/Dashboard.jsx" timestamp="1502979722705">
+        <mark key="'" line="52" column="14" />
+        <mark key="[" line="52" column="11" />
+        <mark key="]" line="53" column="10" />
+        <mark key="." line="53" column="10" />
       </file>
       <file name="$USER_HOME$/code/codeboard/imports/api/methods.js" timestamp="1498811933988">
         <mark key="[" line="20" column="23" />
@@ -78,6 +78,7 @@
         <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/code/code_expert/imports/ui/legacy/containers/AppContainer.jsx" timestamp="1502960100703" />
+      <file name="$USER_HOME$/code/code_expert/imports/api/courses/methods.js" timestamp="1502979514339" />
       <file name="$USER_HOME$/code/code_expert/imports/api/exercises/Exercises.tests.js" timestamp="1502286943747">
         <mark key="'" line="31" column="6" />
         <mark key="[" line="32" column="0" />
@@ -130,6 +131,8 @@
       <jump line="95" column="60" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/AdminConsole.jsx" />
       <jump line="112" column="18" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/AdminConsole.jsx" />
       <jump line="119" column="52" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/AdminConsole.jsx" />
+      <jump line="53" column="9" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/Dashboard.jsx" />
+      <jump line="52" column="14" filename="$USER_HOME$/code/code_expert/imports/ui/legacy/components/Dashboard.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
