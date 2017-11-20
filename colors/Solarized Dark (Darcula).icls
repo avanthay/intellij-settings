@@ -1,5 +1,8 @@
 <scheme name="Solarized Dark (Darcula)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="modified">2017-11-20T15:34:09</property>
+  </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
