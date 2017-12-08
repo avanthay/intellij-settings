@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Create Fake jQuery library" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/mkdir" />
+      <option name="PARAMETERS" value="-p node_modules/jquery" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/code/code_expert" />
+    </exec>
+  </tool>
+</toolSet>
