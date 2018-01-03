@@ -2,28 +2,25 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="lock" type="JSON" />
-      <mapping ext="theme" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="engine" type="PHP" />
-      <mapping ext="php" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="theme" type="PHP" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".meteorignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore.swp" type="PLAIN_TEXT" />
+      <mapping pattern="dataErrorLog" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="what" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore.swp" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="dataErrorLog" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="legal-displayed" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="APIDocumentation" type="Twig" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
