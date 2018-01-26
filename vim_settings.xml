@@ -22,14 +22,18 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/code_expert/template.env" timestamp="1502872103103">
-        <mark key="[" line="44" column="29" />
-        <mark key="]" line="44" column="29" />
-        <mark key="^" line="44" column="29" />
-        <mark key="." line="44" column="29" />
+      <file name="$USER_HOME$/code/code_expert/template.env" timestamp="1516969805508">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="45" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="9" column="45" />
       </file>
-      <file name="$USER_HOME$/code/code_expert/README.md" timestamp="1516962558921">
+      <file name="$USER_HOME$/code/code_expert/README.md" timestamp="1516969781162">
         <mark key="'" line="48" column="0" />
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="10" column="2" />
+        <mark key="^" line="10" column="2" />
       </file>
       <file name="meteor://💻app/packages/practicalmeteor:mocha-core/server.js" timestamp="1502265658395">
         <mark key="[" line="0" column="0" />
