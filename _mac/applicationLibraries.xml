@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/winston" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="prop-types-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
