@@ -1,5 +1,6 @@
 <application>
   <component name="WebBrowsersConfiguration" default="first">
+    <browser id="c8ad0a0f-d183-4e02-a514-c7121432ec1e" name="Firefox Developer" family="FIREFOX" path="/Applications/FirefoxDeveloperEdition.app" />
     <browser id="51dc63f6-f67b-4f75-b3df-9cbb8449456e" name="Chrome Canary" family="CHROME" path="/Applications/Google Chrome Canary.app" />
     <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME" />
     <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" />
