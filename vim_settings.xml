@@ -16,6 +16,11 @@
       <file name="$USER_HOME$/code/codeboard/package.json" timestamp="1498826332576">
         <mark key="'" line="41" column="11" />
       </file>
+      <file name="$USER_HOME$/code/code_expert-runner/src/app/Docker.js" timestamp="1525701387839">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/fragment.js" timestamp="1502283364359">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="0" column="0" />
@@ -52,6 +57,12 @@
         <mark key="[" line="52" column="11" />
         <mark key="]" line="53" column="10" />
         <mark key="." line="53" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/code_expert-runner/test/Docker.js" timestamp="1525701355325">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/code/codeboard/imports/api/methods.js" timestamp="1498811933988">
         <mark key="[" line="20" column="23" />
@@ -146,8 +157,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/code_expert/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzLWV4dHJhJzsK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -155,22 +166,31 @@
       <register name="/" type="4">
         <text>course</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TXlDb3Vyc2VFeGVyY2lzZXMucHJvcFR5cGVzID0gewogIGNvdXJzZTogUHJvcFR5cGVzLm9iamVjdCwKfTsK</text>
+      <register name="0" type="4">
+        <text>=== container.id)).to.not.b</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzLWV4dHJhJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gLyogZXNsaW50LWVuYWJsZSByZWFjdC9yZXF1aXJlLWRlZmF1bHQtcHJvcHMsIHJlYWN0L2ZvcmJpZC1wcm9wLXR5cGVzICovCg==</text>
+        <text encoding="base64">ICA9PT0gY29udGFpbmVyLmlkKSkudG8ubm90LmIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vIC8vIFRPRE8gIzQ1IGFkZCBkZWZhdWx0IHByb3BzCi8vIC8vIFRPRE8gIzQ2IG1vcmUgc3BlY2lmaWMgcHJvcFR5cGVzCi8vIC8qIGVzbGludC1kaXNhYmxlIHJlYWN0L3JlcXVpcmUtZGVmYXVsdC1wcm9wcywgcmVhY3QvZm9yYmlkLXByb3AtdHlwZXMgKi8KLy8gUmVkaXJlY3RPdmVydmlldy5wcm9wVHlwZXMgPSB7Ci8vICAgbG9jYXRpb246IFByb3BUeXBlcy5vYmplY3QsCi8vICAgY2hpbGRyZW46IFByb3BUeXBlcy5lbGVtZW50LCAvLyBtYXRjaGVkIGNoaWxkIHJvdXRlIGNvbXBvbmVudAovLyB9Owo=</text>
+        <text encoding="base64">ICAgID09PSBjb250YWluZXIuaWQpKS50by5ub3QuYgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gLyogZXNsaW50LWVuYWJsZSByZWFjdC9yZXF1aXJlLWRlZmF1bHQtcHJvcHMsIHJlYWN0L2ZvcmJpZC1wcm9wLXR5cGVzICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ci8vIC8vIFRPRE8gIzQ1IGFkZCBkZWZhdWx0IHByb3BzCi8vIC8vIFRPRE8gIzQ2IG1vcmUgc3BlY2lmaWMgcHJvcFR5cGVzCi8vIC8qIGVzbGludC1kaXNhYmxlIHJlYWN0L3JlcXVpcmUtZGVmYXVsdC1wcm9wcywgcmVhY3QvZm9yYmlkLXByb3AtdHlwZXMgKi8KLy8gUmVkaXJlY3RPdmVydmlldy5wcm9wVHlwZXMgPSB7Ci8vICAgbG9jYXRpb246IFByb3BUeXBlcy5vYmplY3QsCi8vICAgY2hpbGRyZW46IFByb3BUeXBlcy5lbGVtZW50LCAvLyBtYXRjaGVkIGNoaWxkIHJvdXRlIGNvbXBvbmVudAovLyB9Owo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">LyAvKiBlc2xpbnQtZW5hYmxlIHJlYWN0L3JlcXVpcmUtZGVmYXVsdC1wcm9wcywgcmVhY3QvZm9yYmlkLXByb3AtdHlwZXMgKi8K</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>// // TODO #45 add default props
 // // TODO #46 more specific propTypes
 // /* eslint-disable react/require-default-props, react/forbid-prop-types */
@@ -180,17 +200,8 @@
 // };
 /</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ci8vIC8vIFRPRE8gIzQ1IGFkZCBkZWZhdWx0IHByb3BzCi8vIC8vIFRPRE8gIzQ2IG1vcmUgc3BlY2lmaWMgcHJvcFR5cGVzCi8vIC8qIGVzbGludC1kaXNhYmxlIHJlYWN0L3JlcXVpcmUtZGVmYXVsdC1wcm9wcywgcmVhY3QvZm9yYmlkLXByb3AtdHlwZXMgKi8KLy8gUmVkaXJlY3RPdmVydmlldy5wcm9wVHlwZXMgPSB7Ci8vICAgbG9jYXRpb246IFByb3BUeXBlcy5vYmplY3QsCi8vICAgY2hpbGRyZW46IFByb3BUeXBlcy5lbGVtZW50LCAvLyBtYXRjaGVkIGNoaWxkIHJvdXRlIGNvbXBvbmVudAovLyB9OwovLyAvKiBlc2xpbnQtZW5hYmxlIHJlYWN0L3JlcXVpcmUtZGVmYXVsdC1wcm9wcywgcmVhY3QvZm9yYmlkLXByb3AtdHlwZXMgKi8=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
