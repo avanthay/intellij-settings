@@ -1,10 +1,34 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/dockerode" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
     <library name="@types/fs-extra" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/meteor" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mongodb" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
