@@ -9,6 +9,27 @@
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
+  <component name="InspectionProfileManager">
+    <info color="525229">
+      <option name="EFFECT_COLOR" value="268bd2" />
+      <option name="EFFECT_TYPE" value="2" />
+      <option name="myName" value="async / await function" />
+      <option name="myVal" value="50" />
+      <option name="myExternalName" value="async / await function" />
+      <option name="myDefaultAttributes" />
+    </info>
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="INFORMATION" />
+      <item index="1" class="java.lang.String" itemvalue="async / await function" />
+      <item index="2" class="java.lang.String" itemvalue="UNUSED ENTRY" />
+      <item index="3" class="java.lang.String" itemvalue="TYPO" />
+      <item index="4" class="java.lang.String" itemvalue="SERVER PROBLEM" />
+      <item index="5" class="java.lang.String" itemvalue="WEAK WARNING" />
+      <item index="6" class="java.lang.String" itemvalue="INFO" />
+      <item index="7" class="java.lang.String" itemvalue="WARNING" />
+      <item index="8" class="java.lang.String" itemvalue="ERROR" />
+    </list>
+  </component>
   <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
