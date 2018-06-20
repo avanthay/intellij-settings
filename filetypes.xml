@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="build-images" type="Bash" />
       <mapping pattern="cxprt-runtime-script.tpl" type="Bash" />
       <mapping pattern="run" type="Bash" />
       <mapping ext="script" type="Bash" />
