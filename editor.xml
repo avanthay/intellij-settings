@@ -36,7 +36,7 @@
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
-    <pattern case-sensitive="true" pattern="\btodo\b.*" />
+    <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern case-sensitive="true" pattern="\bTODO\b.*" />
   </component>
