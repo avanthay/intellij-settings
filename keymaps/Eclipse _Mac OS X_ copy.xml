@@ -73,6 +73,9 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
